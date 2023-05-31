@@ -1,3 +1,5 @@
+
+// COMPUTER WILL GUESS THE NUMBER YOU ENTER BETWEEN 1 TO 100
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
